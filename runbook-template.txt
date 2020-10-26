@@ -1,0 +1,22 @@
+﻿# Runbook name: e.g. Runbook template
+# Runbook description: e.g. A basic runbook template to document step-by-step 
+# instructions for Cybersecurity tool installation, configuration, and 
+# Cybersecurity testing
+# Creator: e.g. pdrcybersec
+# Version: e.g. 1.0
+# Version date: e.g. 10/25/2020
+
+## Overview ##
+e.g. General description of the application or task. Link to a website or 
+reference doc.
+
+## Dependencies ##
+e.g. Include a list of all tools or materials or links that are necessary to 
+complete the steps.
+
+## Step-by-step instructions ##
+e.g. List of tasks. Each step should have a single action, not several. If 
+you have more than one or two sentences per step, break them into smaller, less 
+complicated steps if possible.
+
+
